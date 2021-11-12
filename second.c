@@ -18,6 +18,6 @@ if (a < b)
 	} 
 	else
 	{ 
-	printf("B must be greater than A\n"); 
+	printf("b поинен бути більший ніж a\n"); 
 	}
 }
