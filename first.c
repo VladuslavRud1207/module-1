@@ -18,6 +18,6 @@ int main(void)
 	}
 	else
 		{
-			printf("n must be greater than 1\n")
+			printf("n повинен бути більший ніж 1\n");
 		}
 }
